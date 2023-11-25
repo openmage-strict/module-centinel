@@ -1,0 +1,8 @@
+src/app/code/core/Mage/Centinel/                                    app/code/core/Mage/Centinel/
+src/app/design/adminhtml/default/default/layout/centinel.xml        app/design/adminhtml/default/default/layout/centinel.xml
+src/app/design/adminhtml/default/default/template/centinel/         app/design/adminhtml/default/default/template/centinel/
+src/app/design/frontend/base/default/layout/centinel.xml            app/design/frontend/base/default/layout/centinel.xml
+src/app/design/frontend/base/default/template/centinel/             app/design/frontend/base/default/template/centinel/
+src/app/design/frontend/rwd/default/template/centinel/              app/design/frontend/rwd/default/template/centinel/
+src/app/etc/modules/Mage_Centinel.xml                               app/etc/modules/Mage_Centinel.xml
+src/app/locale/en_US/Mage_Centinel.csv                              app/locale/en_US/Mage_Centinel.csv

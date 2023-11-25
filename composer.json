@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-centinel",
+    "description": "Mage_Centinel",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-checkout": "*",
+        "openmage-strict/module-payment": "*"
+    }
+}
